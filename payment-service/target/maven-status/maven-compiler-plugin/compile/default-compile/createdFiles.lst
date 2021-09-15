@@ -1,7 +1,0 @@
-com/ucieda/saga/payment/entity/UserBalance.class
-com/ucieda/saga/payment/config/PaymentConsumerConfig.class
-com/ucieda/saga/payment/PaymentServiceApplication.class
-com/ucieda/saga/payment/service/PaymentService.class
-com/ucieda/saga/payment/entity/UserTransaction.class
-com/ucieda/saga/payment/repository/UserBalanceRepository.class
-com/ucieda/saga/payment/repository/UserTransactionRepository.class
